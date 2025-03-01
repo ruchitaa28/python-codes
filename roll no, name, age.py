@@ -1,4 +1,4 @@
-l=[(1, 'vidhi', 19), (2, 'manya', 18), (3, 'prapti', 18)]
+l=[(1, 'ruchita', 18), (2, 'name2', 18), (3, 'name3', 19)]
 print(l)
 l1=[]
 l2=[]
